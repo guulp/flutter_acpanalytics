@@ -11,7 +11,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_acpcore: ">= 2.0.0 <3.0.0"
+  # flutter_acpcore: ">= 2.0.0 <3.0.0"
+  flutter_acpcore:
+    git:
+      url: https://github.com/guulp/flutter_acpcore
+      ref: master  
 
 dev_dependencies:
   flutter_test:
