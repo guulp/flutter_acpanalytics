@@ -15,7 +15,7 @@ dependencies:
   flutter_acpcore:
     git:
       url: https://github.com/guulp/flutter_acpcore
-      ref: 7f782e847b279c4381f8bf38530ab9d29e8a116d
+      ref: master
 
 dev_dependencies:
   flutter_test:
